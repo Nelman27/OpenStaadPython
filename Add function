@@ -1,0 +1,1 @@
+To add or activate the libraries found in the Functions.json file you must set it to true and then implement it from _FlagAMethod to implement the function right after placing it in self._functions=['',] and defining your function
